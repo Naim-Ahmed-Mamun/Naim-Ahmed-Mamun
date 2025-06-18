@@ -42,8 +42,13 @@ I specialize in creating innovative, scalable web and mobile applications using 
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/naim-uddin-2na/)
-[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://www.facebook.com/profile.php?id=100010169807336)
+<a href="https://www.linkedin.com/in/naim-uddin-2na/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" alt="LinkedIn" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100010169807336" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="30" height="30" alt="Facebook" />
+</a>
+
 
 ---
 
